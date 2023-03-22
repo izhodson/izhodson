@@ -9,7 +9,7 @@ Currently studying Computer Science and Mathematics at the University of Utah, e
 *   🌍  I'm based in Salt Lake City
 *   ✉️  You can contact me at [isaachodson27@gmail.com](mailto:isaachodson27@gmail.com)
 *   🤝  I'm open to collaborating on interesting and unique projects
-*   ⚡  I love to ski, play basketball, and run!### Skills 
+*   ⚡  I love to ski, play basketball, and run!
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
