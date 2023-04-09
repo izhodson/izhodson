@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Data Engineer
 --------------------------
 
-Currently studying Computer Science and Mathematics at the University of Utah, expecting to graduate in 2024. Repositories are set to private due to my schools academic integrity policy. If you would like to see any of my projects feel free to contact me!
+Currently studying Computer Science and Mathematics at the University of Utah, expecting to graduate in 2024. If you would like to see any of my projects feel free to contact me!
 
 *   🌍  I'm based in Salt Lake City
 *   ✉️  You can contact me at [isaachodson27@gmail.com](mailto:isaachodson27@gmail.com)
